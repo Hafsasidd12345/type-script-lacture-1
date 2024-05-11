@@ -1,0 +1,1 @@
+# type-script-lacture-1
